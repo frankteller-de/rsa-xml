@@ -1,0 +1,25 @@
+{
+  "name": "rsa-xml",
+  "version": "0.1.2",
+  "description": "RSA XML Decrypter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elstonie/rsa-xml.git"
+  },
+  "keywords": [
+    "rsa",
+    "xml",
+    "pem",
+    "RSACryptoServiceProvider",
+    "decrypt"
+  ],
+  "author": "Frank Hinkel",
+  "license": "MIT",
+  "dependencies": {
+    "asn1": "^0.2.3"
+  }
+}
