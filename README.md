@@ -101,7 +101,7 @@ npm install rsa-xml --save
 ## API
 
 ### RSAXML([key, [container]])
-Create a empty RSAXML Object or import a key with optional key and container parameter.
+Create an empty RSAXML Object or import a key with optional key and container parameter.
 
 ### importKey(key, [container])
 Import a private RSA XML key as plain text string, base64 encoded string or in PEM format. The optinal parameter `container` can handle different key decryptions.  
