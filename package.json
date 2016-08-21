@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elstonie/rsa-xml.git"
+    "url": "git+https://github.com/feinmetz/rsa-xml.git"
   },
   "keywords": [
     "rsa",
