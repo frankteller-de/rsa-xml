@@ -1,4 +1,4 @@
-# RSA XML Decrypter
+# RSA XML Decrypter [![NPM version](https://badge.fury.io/js/rsa-xml.svg)](http://badge.fury.io/js/rsa-xml)
 
 [![NPM](https://nodei.co/npm/rsa-xml.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/rsa-xml/)
 
