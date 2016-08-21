@@ -1,5 +1,7 @@
 # RSA XML Decrypter
 
+[![NPM](https://nodei.co/npm/rsa-xml.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/rsa-xml/)
+
 RSA XML Decrypter for Node.
 Decrypt a string by private RSA XML C# key in Node.js.
 
