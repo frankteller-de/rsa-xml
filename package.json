@@ -1,6 +1,6 @@
 {
   "name": "@keivan.sf/rsa-xml",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "RSA XML Decrypter With typescript support",
   "main": "index.js",
   "types": "index.d.ts",
